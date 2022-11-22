@@ -7,8 +7,8 @@ Me llamo Luz Tovar, soy estudiante de Ingenieria de Sistemas Computacionales. El
 * Estoy interesada en temas de Ingenieria de Software, Bases de datos, Desarrollo Web y Redes.
 * Actualmente estoy aprendiendo Back-End, para ser un Developer Full Stack en "Innovaccion Virtual".
 ## Lenguajes y Herramientas
-
-    <body align="left">
+-----
+<div align="left">
             <img width="60px" height="80px" src="./logos/CSS3_logo.png">
             <img width="80px" height="80px" src="./logos/HTML5_log.png">
             <img width="60px" height="80px" src="./logos/ISO_C++_Logo.svg.png">
@@ -18,6 +18,6 @@ Me llamo Luz Tovar, soy estudiante de Ingenieria de Sistemas Computacionales. El
             <img width="60px" height="80px" src="./logos/python.png">
             <img width="90px" height="80px" src="./logos/react.png">
             <img width="80px" height="80px" src="./logos/Unofficial_JavaScript_logo_2.svg.png">
-    </body>
+</div>
 
 
