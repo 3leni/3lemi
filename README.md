@@ -9,17 +9,7 @@ Me llamo Luz Tovar, soy estudiante de Ingenieria de Sistemas Computacionales. El
 ## Lenguajes y Herramientas
 
 <html>
-    <style>
-        body{
-            display: flex;
-            flex-direction:row;
-        }
-        img:hover {
-        width: 100px;
-       height: 110px;
-        }
-    </style>
-    <body>
+    <body align="left">
             <img width="60px" height="80px" src="./logos/CSS3_logo.png">
             <img width="80px" height="80px" src="./logos/HTML5_log.png">
             <img width="60px" height="80px" src="./logos/ISO_C++_Logo.svg.png">
