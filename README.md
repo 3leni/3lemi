@@ -1,4 +1,4 @@
-![Presentacion](./Bienvenidos.gif)
+![Presentacion](./logos/Bienvenidos.gif)
 
 # 👋 Hola mucho gusto.
 Me llamo Luz Tovar, soy estudiante de Ingenieria de Sistemas Computacionales. El conocer esta carrera fue increible para mi por que ahora me encanta el mundo de la tecnología y todo lo increible que podemos crear.
