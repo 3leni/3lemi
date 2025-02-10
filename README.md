@@ -1,10 +1,10 @@
 ![Presentacion](./logos/Bienvenidos.gif)
 
 # 👋 Hola mucho gusto.
-Me llamo Luz Tovar, soy estudiante de Ingenieria de Sistemas Computacionales. El conocer esta carrera fue increible para mi por que ahora me encanta el mundo de la tecnología y todo lo increible que podemos crear.
+Me llamo Luz Tovar, soy Practicante de Ingenieria de Sistemas Computacionales. El conocer esta carrera fue increible para mi por que ahora me encanta el mundo de la tecnología y todo lo increible que podemos crear.
 
 * Me gusta mantenerme en constante aprendizaje.
-* Estoy interesada en temas de Ingenieria de Software, Bases de datos, Desarrollo Web y Redes.
+* Estoy interesada en temas de Ingenieria de Software, Bases de datos, Desarrollo Web .
 * Actualmente estoy aprendiendo Back-End, para ser un Developer Full Stack en "Innovaccion Virtual".
 * Me considero autodidacta, me gusta aprender y lo mejor de esto es poder comartirlo.
 * Me gusta hechar a valar mi creatividad.
